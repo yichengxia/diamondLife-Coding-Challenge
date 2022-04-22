@@ -9,13 +9,13 @@ This page has the following functionalities:
 
 • Has an input box on the page that allows the user to enter a string
 
-• When a string is entered it is then added to the list
+• When a string is entered, it is then added to the list
 
 • Clicking on an item in the list marks it complete and moves it to the bottom of the list
 
 • Clicking on the x of an item removes the item from the list
 
-Additionally functionalities includes:
+Additional functionalities includes:
 
 • Filter buttons that shows completed items only, shows to do items only, and shows all items
 
