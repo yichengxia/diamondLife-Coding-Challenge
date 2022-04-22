@@ -1,6 +1,6 @@
 # diamondLife Coding Challenge
 
-This challenge is to build a Web page that helps users manage their *To Do List*.
+This is to build a Web page that helps users manage their *To Do List*.
 You can try it online [here](https://raw.githack.com/yichengxia/diamondLife-Coding-Challenge/main/index.html).
 
 This page has the following functionalities:
@@ -15,7 +15,7 @@ This page has the following functionalities:
 
 • Clicking on the x of an item removes the item from the list
 
-Additional functionalities includes:
+Additional functionalities include:
 
 • Filter buttons that shows completed items only, shows to do items only, and shows all items
 
